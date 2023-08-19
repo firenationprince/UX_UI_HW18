@@ -38,19 +38,6 @@ header, footer{
     width: 40px;
     margin-right: 10px;
 }
-.menu{
-    display: flex;
-    align-items: center;
-    list-style: none;
-}  
-.menu li{
-    padding: 15px 10px;
-    font-size: 16px;
-}
-.toggle{
-    font-size: 30px;
-    display: none;
-}
 .nav li{
     position: relative;
     Left: 45%;
